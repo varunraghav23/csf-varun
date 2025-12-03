@@ -82,3 +82,9 @@ Asks user if they want to play again
 
 
 ---
+
+11. Conclusion
+
+This project demonstrates the essential concepts of Python programming and how to use Git & GitHub effectively for version control.
+It also shows how to document and structure a project professionally.
+
